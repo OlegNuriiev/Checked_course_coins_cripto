@@ -1,0 +1,1 @@
+web: python TG_Bots/Checked_course_coins_cripto/Main1.py
